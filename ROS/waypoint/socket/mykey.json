@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "rosmed-618a0",
+    "private_key_id": "dbc7f134f644eaf64ef524e2e6e687e74b4e0c0d",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCp4Vm6pZUF6cGO\n6xGUZE5qUBEuxU5DLRMSoeBoUJLsmDZjASjAzsjvD4fgi9N9Yg5EfL7QhMTXvt/M\nmgHfJmoHrOPiLXOEZR224ktUYNDuQmbJJ6Wn0iFGUmgAsI8JFXgOQEGO9SH3tHqv\nq04WnUvKuz/hkJCRQRtntk1JEGj12i82WlXZMeEbvCQ1XZNyJcdkxaPScbhmmtb7\nz4CIBAR8B1v2WBAhnODZVdboktyiEiLzLOvArM3DGcP7Yq4+n130CeeQlL64KvlY\n9ycu/rZTHAnT9NjYF/9yZz/wTMT4iBaIoDKhXGS5RePGZsJu/6QN+ligBkY7kHV4\nFnJ43+dJAgMBAAECggEACE9eni2gJfVGu4Tme9+xwcvXoVXzw3+6l35dbcDmRQZX\nn710ZsUeyWn1M7/nSTKBH+rJw0XBYsviov20Inw8stIrZhqi1FrFarc0Z+TiB4uu\nP0AOH5DdAZWBoqoAXzmCgVD1nAaEAjvdBgefVuYcKWdCQ1iY59AbZPYDHxQ7TC5q\n/Ms2TKq7QmkHrYddQhdt1tG4S+wPZnGyk1KDgDtP26FdlPgdf4OsQTbU09HiTGCX\n9GWOO9nrA7unYt3JyFu8pz8KVmlZYzFJ14RoO7iP0xepix5c69Me/BbpRnG7YL5u\nIYdeiJx6mA8eWvDiTjwFCraerFFAm07XJBtu+vmuoQKBgQDn/SnMyn1TH6TdGQYX\nYr/OhxoYtdt4GBesgScMeSij9nq+Nb/+DiVggKBo6PDyFa69y3qmoiq2UPLx8ZeC\nmjRpJ7hHiLCp8J0yMjQLy3sILyqtypnbbnFAazZwz7/ucqS3TVEr0KAzmDmBOXW4\nahaRdFNVwji7VBn9YNuPxqZXaQKBgQC7dop+Jauv0j6eVfuHzVg5EXNHBnqdvB0D\nDMhZU9XUfk4BErzJK2YxDRc084IBXZfDLub+JZzsTZNII8q9Re4BNOlMyZmxnkP7\nDTqlwSONlnvLY785Ah4424oEIaM4mthVEEmkOlmoCaoP9RnnheXJXbMT//7/dJFk\nzOP6Y9X04QKBgEmNyDIJRaEUWGZNp9PEWII37btF9bbnFKJ6NJJM2+jYnmQukJgR\njiJBxhpdOP/YhhXhLRsmMZqqocy6R8p97/4jPNdZbIIFKyIeLshKlNCse8Csiwm6\nw6ekFpfAFt+Yc8c2eXUF6bVSH3FscXmuEUe+9SkssmYarT7b9eFpH5Z5AoGADfkf\nB5odOwTL4Bd+oTfALLjNQ+0KtLkx3GlWgboLBUTI4bGY2tHeUyerpCnGdf2Y81aK\np0T8dmyt3sG0Ofl9bR+ZiDy6tQ+b95mb1oEX+lTOM3Hi7gfnYsuSdQ5g0TZRi72k\nD5a92hWmVHwriyNi5miSkZoSUs5IjB/tmltYtmECgYEAsPcyz7GgUdUQ1E+6Rytf\nUEL8NRTlt/a4K0+GH8BH0l/tfqY+jevuOrx173GohQn3gv28rqRlUyOMDbwtY3NI\nWHqnl+HTS81dTF7zCc+s96VFYBAZKkXtqCr54XNIcxHb402DYHDiS8whndZOmRr0\nmVyxw5Qlk9ZLUdeOYtrQeBU=\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-qffdf@rosmed-618a0.iam.gserviceaccount.com",
+    "client_id": "116898453206054608192",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-qffdf%40rosmed-618a0.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
